@@ -1,0 +1,17 @@
+{
+  "name": "TestCli",
+  "version": "1.0.0",
+  "description": "cli tools",
+  "main": "index.js",
+  "repository": "git@github.com:elenva/TestCli.git",
+  "author": "elenva <282058905@qq.com>",
+  "license": "MIT",
+  "bin": {
+    "kipleFE": "bin/kiple"
+  },
+  "dependencies": {
+    "colors": "^1.4.0",
+    "commander": "^7.2.0",
+    "@types/node": "^15.0.2"
+  }
+}
